@@ -1,0 +1,16 @@
+2/6/13
+    added constants to Card
+2/7/13
+    began work on images
+    card image source: http://bevgray.com/my/playing-card-images.htm
+2/8/13
+    added CARDS_IN_A_DECK constant to Deck
+2/13/13
+    got table picture
+    source: http://0.tqn.com/d/np/blackjack-strategy/p16-001.jpg
+    got chips picture
+    source: http://www.deviantart.com/download/177261758/poker_chips_illustration_by_apprenticeofart-d2xjc1q.png
+    got moreChips picture
+    source: http://cdn.designinstruct.com/files/180-poker_chips/step024_stack_poker_chips.jpg
+2/14/13
+    implemented Image support in Card class

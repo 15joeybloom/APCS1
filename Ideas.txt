@@ -1,0 +1,21 @@
+Mah Johngg
+	Tile
+	Card		
+	Rack (holds Player's Tiles)
+	Hand (represents a Hand on a Card)
+		Use XYZ for arbitrary suit
+		Use MKT for baM, cracK, doT (rarely used, if ever)
+		Use 1-9 for 1-9 literally
+		Use A-I for 1-9 arbitrary (i.e. consectutive runs)
+		Use 0S where S is XYZ, for corresponding dragon
+		Use 0 for soap
+		Use G for Green
+		Use R for Red
+		Use NEWS as you should
+
+		See StringCharacterIterator; may be useful
+	Player
+	Wall
+
+Traffic Simulator
+	

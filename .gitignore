@@ -1,0 +1,19 @@
+#comment
+#ignore java bytecode
+*.class
+#ignore bluej ctxt files
+*.ctxt
+#ignore generated javadocs
+doc/
+#ignore netbeans stuff
+build/
+nbproject/
+manifest.mf
+build.xml
+javadoc/
+
+#windows thumbnail file
+Thumbs.db
+
+#directorySynchronizer program output
+lastSync.txt
